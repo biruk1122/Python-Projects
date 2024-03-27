@@ -39,7 +39,7 @@ lives = 6
 from signs import logo
 print(logo)
 # Testing code
-print(f'Pssst, the solution is {chosen_word}.')
+#print(f'Pssst, the solution is {chosen_word}.')
 
 # Create blanks
 display = []
