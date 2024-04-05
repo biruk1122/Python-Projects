@@ -1,0 +1,14 @@
+"""FizzBuzz maths Game"""
+
+target = 100
+
+# Indicates to Include the Target Number, that means 100
+for number in range(1, target + 1):
+   if number % 3 == 0 and number % 5 == 0:
+      print("FizzBuzz")
+   elif number % 3 == 0:
+       print("Fizz")
+   elif number% 5 == 0:
+      print("Buzz")
+   else:
+      print(number)
