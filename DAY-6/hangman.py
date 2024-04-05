@@ -12,9 +12,7 @@ import random
 # loop should only stop once the user has gussed all
 # the letters in the chosen_word and 'display' has no
 # more blanks("-"). Then you can tell the user you won.
-
 #Create a blanks
-
 
 # step-2: Ask the user to guess a letter and assign
 # their answer to a variable called guess. make guess
