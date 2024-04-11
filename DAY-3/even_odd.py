@@ -1,4 +1,4 @@
-"""To Find Out a Number is Even or Odd"""
+""" To Find Out a Number is Even or Odd """
 
 print("Enter Even or Odd Number")
 number = int(input("Enter Your Number "))
