@@ -3,7 +3,7 @@ line2 = [" ", " ", " "]
 line3 = [" ", " ", " "]
 map = [line1, line2, line3]
 
-print("Hiding Your Treasure! X Marks the Spot.")
+print("Hiding Your Treasure! X Marks the Spot. ")
 position = input("Where Do You Want To Put the Treasure? E.g, A1, A2, B1, C1\n")
 
 letter = position[0].lower()
