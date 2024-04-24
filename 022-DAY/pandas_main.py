@@ -30,4 +30,4 @@ data_dict = {
 }
 data = pandas.DataFrame(data_dict)
 print(data)
-data.to_csv("pandas_file")
+data.to_csv("pandas_file.csv")
