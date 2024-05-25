@@ -1,6 +1,7 @@
 # Python-Projects
 Sure! Here's a breakdown of daily Python projects ranging from beginner to advanced levels:
 Beginner Level Projects:
+
 Hello, World! Program: Start with the classic "Hello, World!" program to get familiar with Python syntax and basic output.
 Simple Calculator: Build a program that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 Guess the Number Game: Create a game where the computer generates a random number, and the player tries to guess it within a certain number of attempts.
@@ -11,6 +12,7 @@ Word Count Tool: Create a tool that counts the number of words in a given text f
 Rock, Paper, Scissors Game: Implement the classic game of rock, paper, scissors where users can play against the computer.
 
 Intermediate Level Projects:
+
 URL Shortener: Develop a URL shortening service that takes a long URL and generates a shortened version.
 Simple Chatbot: Build a basic chatbot that can engage in a conversation with users, answering simple questions or providing information.
 File Encryption/Decryption: Create a program that encrypts and decrypts files using a chosen encryption algorithm (e.g., AES).
@@ -20,6 +22,7 @@ Expense Tracker: Develop a tool for tracking daily expenses, allowing users to a
 Simple Game Development: Try creating a simple game using Pygame or another game development library, such as a platformer or puzzle game.
 
 Advanced Level Projects:
+
 Machine Learning Model: Dive into machine learning by building a simple classification or regression model using libraries like scikit-learn or TensorFlow.
 Web Development with Flask/Django: Create a web application using Flask or Django framework, implementing features like user authentication, database interaction, and RESTful APIs.
 Data Visualization Dashboard: Build an interactive dashboard that visualizes data from a dataset using libraries like Matplotlib, Seaborn, or Plotly.
