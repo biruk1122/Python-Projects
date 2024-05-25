@@ -1,5 +1,6 @@
 # Python-Projects
 Sure! Here's a breakdown of daily Python projects ranging from beginner to advanced levels:
+
 Beginner Level Projects:
 
 Hello, World! Program: Start with the classic "Hello, World!" program to get familiar with Python syntax and basic output.
