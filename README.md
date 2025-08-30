@@ -3,7 +3,8 @@ Sure! Here's a breakdown of daily Python projects ranging from beginner to advan
 
 Beginner Level Projects:
 
-Hello, World! Program: Start with the classic "Hello, World!" program to get familiar with Python syntax and basic output.
+Hello, World! Program: 
+Start with the classic "Hello, World!" program to get familiar with Python syntax and basic output.
 Simple Calculator: Build a program that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 Guess the Number Game: Create a game where the computer generates a random number, and the player tries to guess it within a certain number of attempts.
 To-Do List App: Develop a simple to-do list application where users can add, remove, and view tasks.
